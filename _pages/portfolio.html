@@ -5,12 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+{% include base_path %}
+
+
 {% for post in site.portfolio %}
-  <h2>{{ post.title }}</h2>
-
-  {% if post.excerpt %}
-    <p>{{ post.excerpt }}</p>
-  {% endif %}
-
-  {{ post.content }}
+  {% include archive-single.html %}
 {% endfor %}
