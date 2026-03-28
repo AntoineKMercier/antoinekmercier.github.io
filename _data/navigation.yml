@@ -15,10 +15,5 @@ main:
     url: /teaching/    
     
   - title: "CV"
-    url: /cv/
+  url: /files/CV.pdf
     
-  # - title: "CV"
-  #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
