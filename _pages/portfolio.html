@@ -7,16 +7,16 @@ author_profile: true
 
 {% for post in site.portfolio %}
 
-  <details style="margin-bottom: 1.5rem;">
+  <details style="margin-bottom: 2.0rem;">
     <summary style="cursor: pointer; font-size: 1.25rem; font-weight: 600; margin-bottom: 0.25rem; color: #30e3ca;" onmouseover="this.style.textDecoration='underline'" onmouseout="this.style.textDecoration='none'">
       {{ post.title }}
     </summary>
 
     {% if post.excerpt %}
-      <p style="margin-top: 0.25rem;"><em>{{ post.excerpt }}</em></p>
+      <p style="margin-top: 2.0rem;"><em>{{ post.excerpt }}</em></p>
     {% endif %}
 
-    <div style="margin-top: 0.5rem;">
+    <div style="margin-top: 2.0rem;">
       {{ post.content }}
     </div>
 
