@@ -4,10 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+<br>
 I have served as Instructor of Record for three courses at the University of Arkansas. Syllabi are available below.
 
-### Instructor of Record — University of Arkansas
+# Instructor of Record — University of Arkansas
 
 - [Introduction to Ethics](https://thcotton.github.io/files/Ethics.pdf)
 - [Introduction to Philosophy](https://thcotton.github.io/files/Intro.pdf)
@@ -15,11 +15,11 @@ I have served as Instructor of Record for three courses at the University of Ark
 
 In addition, I have worked as a Teaching Assistant at both the University of Arkansas and the University of California, Irvine.
 
-### Teaching Assistant — University of Arkansas
+# Teaching Assistant — University of Arkansas
 
 - Introduction to Philosophy
 
-### Teaching Assistant — University of California, Irvine
+# Teaching Assistant — University of California, Irvine
 
 - Race, Sex, and Science  
 - Critical Reasoning  
