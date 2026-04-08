@@ -14,3 +14,5 @@ My research focuses on how AI systems shape and reveal patterns in human knowled
 I am also involved in a range of interdisciplinary and community-oriented work, including [collaborating with the Institute for Engineering AI and Society](https://properai.eng.uci.edu/year-1-seed-projects/) in the Samueli School of Engineering at the University of California, Irvine, organizing the [Hypatia Society](https://www.humanities.uci.edu/philosophy/diversity-0), a graduate-led initiative supporting women and gender minorities in philosophy, and running a reading group in feminist philosophy of science.
 
 Outside of philosophy, I enjoy making art, baking, coding, and watching bad movies with my cat, Captain Cat Sparrow.
+
+You can contact me at thcotton [at] uci [dot] edu
