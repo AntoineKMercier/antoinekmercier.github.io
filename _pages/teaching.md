@@ -7,9 +7,9 @@ author_profile: true
 
 ## Teaching Assistant, University of California, Irvine
 
-- Metalogic (Prof. Kai Wehmeier)
+- Metalogic (Prof. Kai Wehmeier) x2
 - Intro to Critical Reasoning (Prof. Jeremy Heis)
-- Intro to Logic (Prof. Kai Wehmeier) 
+- Intro to Logic (Prof. Kai Wehmeier) x3
 - Intro to Logic (Prof. Toby Meadows) 
 
 
